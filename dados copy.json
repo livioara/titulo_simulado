@@ -1,0 +1,94 @@
+{"eleitores":
+[
+    {
+      "secao": 1,
+      "nome": "Livio",
+      "titulo": 1
+    },
+    {
+      "secao": 1,
+      "nome": "Bianca",
+      "titulo": 2
+    },
+    {
+      "secao": 1,
+      "nome": "Lucas",
+      "titulo": 3
+    },
+    {
+      "secao": 1,
+      "nome": "Rita",
+      "titulo": 4
+    },
+    {
+      "secao": 1,
+      "nome": "Iza",
+      "titulo": 5
+    },
+    {
+      "secao": 1,
+      "nome": "Chico",
+      "titulo": 6
+    },
+    {
+      "secao": 2,
+      "nome": "Livio",
+      "titulo": 7
+    },
+    {
+      "secao": 2,
+      "nome": "Bianca",
+      "titulo": 8
+    },
+    {
+      "secao": 2,
+      "nome": "Lucas",
+      "titulo": 9
+    },
+    {
+      "secao": 2,
+      "nome": "Rita",
+      "titulo": 10
+    },
+    {
+      "secao": 2,
+      "nome": "Iza",
+      "titulo": 11
+    },
+    {
+      "secao": 2,
+      "nome": "Chico",
+      "titulo": 12
+    },
+    {
+      "secao": 3,
+      "nome": "Livio",
+      "titulo": 13
+    },
+    {
+      "secao": 3,
+      "nome": "Bianca",
+      "titulo": 14
+    },
+    {
+      "secao": 3,
+      "nome": "Lucas",
+      "titulo": 15
+    },
+    {
+      "secao": 3,
+      "nome": "Rita",
+      "titulo": 16
+    },
+    {
+      "secao": 3,
+      "nome": "Iza",
+      "titulo": 17
+    },
+    {
+      "secao": 3,
+      "nome": "Chico",
+      "titulo": 18
+    }
+  ]
+}

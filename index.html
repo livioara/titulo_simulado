@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modelo de Exercício</title>
+    <link rel="stylesheet" href="estilo.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+</head>
+
+<body>
+    <header>
+       
+    </header>
+
+    <section>
+        <div>
+            <p>Seção:</p>
+            <select  onfocus="listarSecoes()" name="secao" id="secao"><option>Seção</option></select></p>
+            
+        </div>
+        <div>
+            <p>Nome:</p> 
+            <select onfocus="listarNomes()" id="nome" ><option>Nome</option></select></p>
+        </div>
+        <div>
+            <p>Titulo: </p>
+            <p class="resp" id="titulos">000000000000</p>
+            
+            
+        </div>
+        <div>
+            
+        </div>
+        <div>
+
+            
+            <button id="procurar" onclick="listarTitulos()">Procurar</button>
+        </div>
+
+    </section>
+
+    <footer>
+        <p>Lista de Eleitores</p>
+    </footer>
+    <script  src="script.js">  </script>
+</body>
+
+</html>
